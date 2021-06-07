@@ -1,0 +1,50 @@
+com/example/hypet/BuildConfig.java
+ com.example.hypet.BuildConfig
+com/example/hypet/Lista.java
+ com.example.hypet.Lista
+com/example/hypet/exception.java
+ com.example.hypet.exception
+com/example/hypet/databinding/FragmentFirstBinding.java
+ com.example.hypet.databinding.FragmentFirstBinding
+com/example/hypet/CuadroDialogo.java
+ com.example.hypet.CuadroDialogo
+ com.example.hypet.CuadroDialogo$1
+ com.example.hypet.CuadroDialogo$FinalCuadroDialgo
+com/example/hypet/Adaptador.java
+ com.example.hypet.Adaptador
+ com.example.hypet.Adaptador$ViewHolderDatos
+com/example/hypet/SecondFragment.java
+ com.example.hypet.SecondFragment
+ com.example.hypet.SecondFragment$1
+ com.example.hypet.SecondFragment$2
+com/example/hypet/FirstFragment.java
+ com.example.hypet.FirstFragment
+ com.example.hypet.FirstFragment$1
+ com.example.hypet.FirstFragment$2
+com/example/hypet/databinding/DescripcionBinding.java
+ com.example.hypet.databinding.DescripcionBinding
+com/example/hypet/databinding/FragmentSecondBinding.java
+ com.example.hypet.databinding.FragmentSecondBinding
+com/example/hypet/databinding/CuadroDialogoBinding.java
+ com.example.hypet.databinding.CuadroDialogoBinding
+com/example/hypet/databinding/ListaBinding.java
+ com.example.hypet.databinding.ListaBinding
+com/example/hypet/DescripcionFragment.java
+ com.example.hypet.DescripcionFragment
+com/example/hypet/databinding/FragmentThirdBinding.java
+ com.example.hypet.databinding.FragmentThirdBinding
+com/example/hypet/MainActivity.java
+ com.example.hypet.MainActivity
+ com.example.hypet.MainActivity$1
+com/example/hypet/databinding/ContentMainBinding.java
+ com.example.hypet.databinding.ContentMainBinding
+com/example/hypet/ThirdFragment.java
+ com.example.hypet.ThirdFragment
+ com.example.hypet.ThirdFragment$1
+ com.example.hypet.ThirdFragment$2
+com/example/hypet/databinding/ActivityMainBinding.java
+ com.example.hypet.databinding.ActivityMainBinding
+com/example/hypet/Descripcion.java
+ com.example.hypet.Descripcion
+com/example/hypet/databinding/FragmentDescripcionBinding.java
+ com.example.hypet.databinding.FragmentDescripcionBinding
